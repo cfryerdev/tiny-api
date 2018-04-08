@@ -1,0 +1,15 @@
+{
+  "author": "Chris Fryer",
+  "name": "node-tinyapi",
+  "description": "A tiny api written in node/express to talk to a mongodb data store. Used for mocking out back-ends for front-end developers.",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.14.0",
+    "body-parser": "1.0.1"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "version": "1.0.0"
+}
