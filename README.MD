@@ -13,7 +13,7 @@ Simply install the packages.
 Start the service
 
 ```
-  node start.js
+  npm start
 ```	
 
 Start hitting the api with Postman: `http://localhost:3000`
